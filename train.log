@@ -1,0 +1,55 @@
+train.py[line:35] DEBUG after encodeing, we get encoder outputs torch.Size([10, 100, 500]);ecoder_hiddentorch.Size([4, 100, 500])
+train.py[line:40] DEBUG decode input torch.Size([1, 100])
+train.py[line:44] DEBUG decode initail hidden:torch.Size([2, 100, 500])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:35] DEBUG after encodeing, we get encoder outputs torch.Size([10, 100, 500]);ecoder_hiddentorch.Size([4, 100, 500])
+train.py[line:40] DEBUG decode input torch.Size([1, 100])
+train.py[line:44] DEBUG decode initail hidden:torch.Size([2, 100, 500])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
+train.py[line:57] DEBUG decoder outputtorch.Size([100, 9816]); decoder_hiddentorch.Size([2, 100, 500])
+train.py[line:59] DEBUG target_varibletorch.Size([100])
+train.py[line:61] DEBUG after transfer target input torch.Size([1, 100])
+train.py[line:52] DEBUG iter the words...
